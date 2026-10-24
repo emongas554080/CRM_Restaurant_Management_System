@@ -1,0 +1,12 @@
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\bin\Debug\net10.0-windows\CRM.domain.deps.json
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\bin\Debug\net10.0-windows\CRM.domain.dll
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\bin\Debug\net10.0-windows\CRM.domain.pdb
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\obj\Debug\net10.0-windows\CRM.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\obj\Debug\net10.0-windows\CRM.domain.AssemblyInfoInputs.cache
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\obj\Debug\net10.0-windows\CRM.domain.AssemblyInfo.cs
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\obj\Debug\net10.0-windows\CRM.domain.csproj.CoreCompileInputs.cache
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\obj\Debug\net10.0-windows\CRM.domain.dll
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\obj\Debug\net10.0-windows\refint\CRM.domain.dll
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\obj\Debug\net10.0-windows\CRM.domain.pdb
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\obj\Debug\net10.0-windows\ref\CRM.domain.dll
+C:\Users\ACER LAPTOP\source\repos\CRM_RESTAURANT\CRM.domain\obj\Debug\net10.0-windows\CRM.domain.csproj.Up2Date

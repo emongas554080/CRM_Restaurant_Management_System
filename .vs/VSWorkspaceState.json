@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRM.domain",
+    "\\CRM.domain\\Entities",
+    "\\CRM.infrastructure"
+  ],
+  "SelectedNode": "\\CRM.domain\\Entities\\Customer.cs",
+  "PreviewInSolutionExplorer": false
+}

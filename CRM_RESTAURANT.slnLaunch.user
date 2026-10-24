@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "CRM_RESTAURANT\\CRM.Winforms.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CRM.api\\CRM.api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Entities\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.domain\\Entities\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\IDbConnectionResolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.infrastructure\\Services\\IDbConnectionResolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\DbConnectionResolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.infrastructure\\Services\\DbConnectionResolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Dtos\\TenantCustomersDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.domain\\Dtos\\TenantCustomersDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM_RESTAURANT\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Entities\\TenantInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.domain\\Entities\\TenantInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\IDataCollectorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.infrastructure\\Services\\IDataCollectorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\crm_restaurant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:crm_restaurant\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.api\\Controllers\\DataCollectionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.api\\Controllers\\DataCollectionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\DataCollectorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.infrastructure\\Services\\DataCollectorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Dtos\\CustomerDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.domain\\Dtos\\CustomerDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.api\\CRM.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.api\\CRM.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Data\\TenantDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.infrastructure\\Data\\TenantDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Data\\MasterDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.infrastructure\\Data\\MasterDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\CRM.Winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM_RESTAURANT\\CRM.Winforms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM_RESTAURANT\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\CRM.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.domain\\CRM.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\CRM.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CRM.infrastructure\\CRM.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDbConnectionResolver.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\IDbConnectionResolver.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\Services\\IDbConnectionResolver.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\IDbConnectionResolver.cs",
+              "RelativeToolTip": "CRM.infrastructure\\Services\\IDbConnectionResolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:31:15.969Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbConnectionResolver.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\DbConnectionResolver.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\Services\\DbConnectionResolver.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\DbConnectionResolver.cs",
+              "RelativeToolTip": "CRM.infrastructure\\Services\\DbConnectionResolver.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:31:38.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TenantCustomersDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Dtos\\TenantCustomersDto.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Dtos\\TenantCustomersDto.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Dtos\\TenantCustomersDto.cs",
+              "RelativeToolTip": "CRM.domain\\Dtos\\TenantCustomersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:27:49.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\Form1.cs",
+              "RelativeDocumentMoniker": "CRM_RESTAURANT\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\Form1.cs",
+              "RelativeToolTip": "CRM_RESTAURANT\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:57:22.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "CRM.domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:26:08.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TenantInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Entities\\TenantInfo.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Entities\\TenantInfo.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Entities\\TenantInfo.cs",
+              "RelativeToolTip": "CRM.domain\\Entities\\TenantInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:25:27.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataCollectorService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\IDataCollectorService.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\Services\\IDataCollectorService.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\IDataCollectorService.cs",
+              "RelativeToolTip": "CRM.infrastructure\\Services\\IDataCollectorService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA+wBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:32:38.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\Form1.cs",
+              "RelativeDocumentMoniker": "CRM_RESTAURANT\\Form1.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\Form1.cs [Design]",
+              "RelativeToolTip": "CRM_RESTAURANT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T02:19:53.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataCollectionController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.api\\Controllers\\DataCollectionController.cs",
+              "RelativeDocumentMoniker": "CRM.api\\Controllers\\DataCollectionController.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.api\\Controllers\\DataCollectionController.cs",
+              "RelativeToolTip": "CRM.api\\Controllers\\DataCollectionController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAgwMcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:34:58.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataCollectorService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\DataCollectorService.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\Services\\DataCollectorService.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Services\\DataCollectorService.cs",
+              "RelativeToolTip": "CRM.infrastructure\\Services\\DataCollectorService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAgwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:33:13.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CRM.domain\\Dtos\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "CRM.domain\\Dtos\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:27:24.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\VisualStudio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\VisualStudio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAFUVAAAAAAAAAAAwwGIVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-14T05:28:29.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.api\\Program.cs",
+              "RelativeDocumentMoniker": "CRM.api\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.api\\Program.cs",
+              "RelativeToolTip": "CRM.api\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:35:42.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CRM.api.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.api\\CRM.api.csproj",
+              "RelativeDocumentMoniker": "CRM.api\\CRM.api.csproj",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.api\\CRM.api.csproj",
+              "RelativeToolTip": "CRM.api\\CRM.api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-14T01:33:57.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TenantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Data\\TenantDbContext.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\Data\\TenantDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Data\\TenantDbContext.cs",
+              "RelativeToolTip": "CRM.infrastructure\\Data\\TenantDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:29:55.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MasterDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Data\\MasterDbContext.cs",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\Data\\MasterDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\Data\\MasterDbContext.cs",
+              "RelativeToolTip": "CRM.infrastructure\\Data\\MasterDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:29:29.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CRM.Winforms.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\CRM.Winforms.csproj",
+              "RelativeDocumentMoniker": "CRM_RESTAURANT\\CRM.Winforms.csproj",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\CRM.Winforms.csproj",
+              "RelativeToolTip": "CRM_RESTAURANT\\CRM.Winforms.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-13T15:06:06.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\Program.cs",
+              "RelativeDocumentMoniker": "CRM_RESTAURANT\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM_RESTAURANT\\Program.cs",
+              "RelativeToolTip": "CRM_RESTAURANT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:37:59.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CRM.domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\CRM.domain.csproj",
+              "RelativeDocumentMoniker": "CRM.domain\\CRM.domain.csproj",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.domain\\CRM.domain.csproj",
+              "RelativeToolTip": "CRM.domain\\CRM.domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-13T15:17:04.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CRM.infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\CRM.infrastructure.csproj",
+              "RelativeDocumentMoniker": "CRM.infrastructure\\CRM.infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ACER LAPTOP\\source\\repos\\CRM_RESTAURANT\\CRM.infrastructure\\CRM.infrastructure.csproj",
+              "RelativeToolTip": "CRM.infrastructure\\CRM.infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-14T00:36:57.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
